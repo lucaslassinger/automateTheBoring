@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="054df753-d0d3-4233-945a-2e46061a93a2" name="Default Changelist" comment="" />
+    <list default="true" id="054df753-d0d3-4233-945a-2e46061a93a2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/conwaysGameOfLife.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/passwordLoop.py" beforeDir="false" afterPath="$PROJECT_DIR$/passwordLoop.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +33,28 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.passwordLoop">
+  <component name="RunManager" selected="Python.conwaysGameOfLife">
+    <configuration name="conwaysGameOfLife" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="automateTheBoring" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/conwaysGameOfLife.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="guessingGame" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="automateTheBoring" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,8 +99,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.passwordLoop" />
+        <item itemvalue="Python.conwaysGameOfLife" />
         <item itemvalue="Python.guessingGame" />
+        <item itemvalue="Python.passwordLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -97,29 +123,57 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2660" y="274" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587612648021" />
-    <state width="1921" height="81" key="GridCell.Tab.0.bottom" timestamp="1587758205372">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1537" height="270" key="GridCell.Tab.0.bottom" timestamp="1588558341696">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1921" height="81" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587758205372" />
-    <state width="1921" height="81" key="GridCell.Tab.0.center" timestamp="1587758205372">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1921" height="136" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588222243169" />
+    <state width="1537" height="270" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588558341696" />
+    <state width="1537" height="270" key="GridCell.Tab.0.center" timestamp="1588558341696">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1921" height="81" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587758205372" />
-    <state width="1921" height="81" key="GridCell.Tab.0.left" timestamp="1587758205372">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1921" height="136" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588222243168" />
+    <state width="1537" height="270" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588558341696" />
+    <state width="1537" height="270" key="GridCell.Tab.0.left" timestamp="1588558341696">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1921" height="81" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587758205372" />
-    <state width="1921" height="81" key="GridCell.Tab.0.right" timestamp="1587758205372">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1921" height="136" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588222243168" />
+    <state width="1537" height="270" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588558341696" />
+    <state width="1537" height="270" key="GridCell.Tab.0.right" timestamp="1588558341696">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1921" height="81" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587758205372" />
+    <state width="1921" height="136" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588222243169" />
+    <state width="1537" height="270" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588558341696" />
+    <state width="1537" height="270" key="GridCell.Tab.1.bottom" timestamp="1588558341697">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="270" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588558341697" />
+    <state width="1537" height="270" key="GridCell.Tab.1.center" timestamp="1588558341697">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="270" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1588558341697" />
+    <state width="1537" height="270" key="GridCell.Tab.1.left" timestamp="1588558341696">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="270" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1588558341696" />
+    <state width="1537" height="270" key="GridCell.Tab.1.right" timestamp="1588558341697">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="270" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1588558341697" />
     <state x="2381" y="162" key="SettingsEditor" timestamp="1587758160094">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2381" y="162" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587758160094" />
+    <state x="2095" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1587841599296">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2095" y="347" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587841599296" />
     <state x="2689" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587612669523">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2689" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587612669523" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1588557692024">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1588557692024" />
   </component>
 </project>
